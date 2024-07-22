@@ -8,4 +8,6 @@
 
 - Internally, various scripts based on touch, sound, or other movements can be directly used to replace head tilts and maintain the bracket qualities
 
-- As for the bracket frontend UX, image scripts just need to be switched out, and otherwise, bracket spots can be adjusted via shape, color, etc.
+- As for the bracket's frontend UX, image scripts just need to be switched out, and otherwise, bracket spots can be adjusted via shape, color, etc.
+
+- Note: degrees of tilt freedom can also be reset by simply changing degree constants on head tilt to find the right dependent neutrality
